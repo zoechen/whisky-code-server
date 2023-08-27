@@ -1,0 +1,26 @@
+{
+    "player": [
+        {
+            "id": 1,
+            "name": "Zoe",
+            "email": "zoechen@gmail.com",
+            "phone": "0910123123"
+        },
+        {
+            "id": 2,
+            "name": "Amy",
+            "email": "amylin@gmail.com",
+            "phone": "0988567123"
+        }
+    ],
+    "section_one":[
+        {
+            "id":1,
+            "record":10000
+        },
+        {
+            "id":2,
+            "record":10000
+        }
+    ]
+}
